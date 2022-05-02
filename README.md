@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+For this project we were to grab necessary information for weather data using an API from the internet and using this information to create a vacation list depending on a few factors one of those being average temperature given by the user. We then created a map that contained elements of hotels, max weather, the current weather and in each city these are contained. We grabbed 4 specific areas from this map and mapped out a route between these cities and their respective traits. We then created a smaller map with these four locations for easier visualization an uploaded the data to github.
